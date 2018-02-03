@@ -53,7 +53,7 @@ class Snacktime:
             "`ʕ •ᴥ•ʔ < Did somebody say snacks?!?! o/`",
             "`ʕ •ᴥ•ʔ < Choo Choo! it's the pb train! Come on over guys!`",
             "`ʕ •ᴥ•ʔ < Snacks are here! Dig in! Who wants a plate?`",
-            "`ʕ >ᴥ>ʔ < Pstt.. I got the snacks you were lookin for. <.<`",
+            "`ʕ >ᴥ>ʔ < Pstt.. Its time to eat. <.<`",
             "`ʕ •ᴥ•ʔ < I hope you guys are hungry! Cause i'm loaded to the brim with snacks!!!`",
             "`ʕ •ᴥ•ʔ < I was hungry on the way over so I kinda started without you guys :3 Who wants snacks!?!`",
             "`ʕ •ᴥ•ʔ < Beep beep! I got a snack delivery comin in! Who wants snacks!`",
